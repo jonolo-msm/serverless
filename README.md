@@ -1,5 +1,5 @@
 # MoneySuperMarket.com 
-## Java Developer Technical Test
+## Serverless Technical Test
 
 ## Overview
 
